@@ -1,0 +1,3 @@
+Used tis file to merge
+
+Used in git stash
