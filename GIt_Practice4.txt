@@ -1,6 +1,0 @@
-HI 
-
-This is for GIt stash
-
-This is for git merge
-
