@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="15.0">
+	<children>
+		<child name="Login_Utility_SWEP" key="{7972C78A-D093-4B5A-BE04-9C4BCC761408}" path="Login_Utility_SWEP.tcKDTest" />
+		<child name="ScriptFile" key="{DDE8E5E9-BE0C-4A6A-9CCE-2B915794C8C5}" path="ScriptFile.tcKDTest" />
+	</children>
+</Root>

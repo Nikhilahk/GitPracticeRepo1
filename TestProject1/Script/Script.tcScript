@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<child name="Unit1" key="{60038E10-AB59-4FCF-A041-143789A385CD}" path="Unit1.js" />
+		<child name="reading_excel" key="{59B60C2D-C37F-4E5C-BFB1-CB492E46A1DE}" path="..\..\..\dout_testing\TestProject1\Script\reading_excel.js" />
+		<child name="TabPress" key="{8FBFB274-F978-4FD9-AC28-809A30B403D4}" path="..\..\..\..\Test_Automation _Code\TabPress.js" />
+	</children>
+</Root>
